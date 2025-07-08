@@ -70,7 +70,6 @@ namespace WIZWEB.Models
         public string state { get; set; }
 
         public string zip { get; set; }
-
         public string country { get; set; }
 
     }
